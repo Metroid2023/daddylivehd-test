@@ -42,7 +42,7 @@ https://your.hugging.hf.space/playlist/channels <<< Matching to your own hf.spac
 git clone https://github.com/Metroid2023/daddylivehd-test<br>
 
 2, SSH into the daddy folder (which is called tfms.xyz):<br>
-cd tfms.xyz<br>
+cd daddylivehd-test<br>
 
 3, Launch the service:<br>
 docker-compose up -d --build<br>
