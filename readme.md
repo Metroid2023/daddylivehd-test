@@ -39,7 +39,7 @@ https://your.hugging.hf.space/playlist/channels <<< Matching to your own hf.spac
 <b><u>Self Hosting Tested & Working on Ubuntu20</u></b><br>Note: The playlists do not download when your are self hosting you will need to use the urls from here - (https://dadurls.netlify.app/)<br>
 
 1, Clone the repo:<br>
-git clone https://github.com/MarkMCFC/tfms.xyz<br>
+git clone https://github.com/Metroid2023/daddylivehd-test<br>
 
 2, SSH into the daddy folder (which is called tfms.xyz):<br>
 cd tfms.xyz<br>
@@ -49,7 +49,7 @@ docker-compose up -d --build<br>
 
 Visit the proxy at<br>
 http://localhost:7860<br>
-http://localhost:7860/proxy?url=https://new.newkso.ru/ddy6/***/mono.m3u8<br>
+http://localhost:7860/proxy?url=https://new.newkso.ru/ddy6/***/mono.css<br>
 You can also use the urls from the quick setup guide above<br><br>
 ===========================================================================<br><br>
 If You Need To Install Docker On Ubuntu:<br>
